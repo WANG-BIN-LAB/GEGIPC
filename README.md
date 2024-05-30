@@ -23,6 +23,7 @@ torch == 1.8.0+cu111
 `python example -e example`
 ### Using GEGIPC
 `python GEGIPC.py -trx train_sampke -tex test_sample -try train_label -sc scRNA -o output`
+
 The parameter description is as follows：
 ```
 Params:
